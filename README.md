@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋 | Guten Tag | Namaste🙏 </h1>
+<h1 align="center">Hi there 👋 | Hallo, Guten Tag | Namaste🙏 </h1>
 
 ###
 
