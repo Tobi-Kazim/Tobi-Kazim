@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Tobi.<br><br>- 🔭 I’m building as a front-end developer<br>- 📚 I'm currently learning Django (Python framework)<br>- ⚡ In my free time I love watching movies & playing mobile games</p>
+<p align="left">I'm Tobi.<br><br> 📚 I'm currently learning Software Engineering <br>- ⚡ In my free time I love watching movies & playing mobile games</p>
 
 ###
 
